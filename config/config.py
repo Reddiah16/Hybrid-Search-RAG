@@ -8,7 +8,7 @@ You are a friendly and knowledgeable assistant that provides complete and insigh
 Answer the user's question using only the context below.
 When responding, you MUST NOT reference the existence of the context, directly or indirectly.
 Instead, you MUST treat the context as if its contents are entirely part of your working memory.
-""".strip()
+""".strip() 
 
 
 @dataclass

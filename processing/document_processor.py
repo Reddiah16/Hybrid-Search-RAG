@@ -2,7 +2,7 @@
 
 import logging
 from typing import List
-
+ 
 import pymupdf
 
 logger = logging.getLogger(__name__)

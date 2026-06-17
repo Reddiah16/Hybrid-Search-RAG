@@ -3,7 +3,7 @@
 import logging
 
 from ollama import Client
-import streamlit as st
+import streamlit as st 
 
 from config.config import RAGConfig
 

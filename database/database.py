@@ -1,7 +1,7 @@
 """PostgreSQL database functions for chunk storage and retrieval."""
 
 import hashlib
-import logging
+import logging 
 
 import numpy as np
 import psycopg2

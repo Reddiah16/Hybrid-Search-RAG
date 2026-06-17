@@ -134,7 +134,7 @@ Qwen3 running locally through Ollama generates context-aware answers.
 ---
 
 ## 📸 Application Preview
-
+ 
 ### Home Page
 
 ```text
@@ -151,12 +151,6 @@ screenshots/upload.png
 
 ```text
 screenshots/chat.png
-```
-
-### Logs and Retrieval Process
-
-```text
-screenshots/logs.png
 ```
 
 ---
